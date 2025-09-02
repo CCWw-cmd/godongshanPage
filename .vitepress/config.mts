@@ -4,10 +4,10 @@ import { defineConfig } from "vitepress"
 export default defineConfig({
   title: "东山岛六人行",
   description: "关于东山岛的一些攻略",
-  base: "/godongshan/",
+  base: "/godongshanPage/",
   appearance: "dark",
   head: [
-    ['link', { rel: 'icon', href: '/godongshan/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/godongshanPage/favicon.ico' }],
     ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }]
   ],
   themeConfig: {
