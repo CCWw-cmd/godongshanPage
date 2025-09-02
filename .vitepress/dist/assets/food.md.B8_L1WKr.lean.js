@@ -1,0 +1,1 @@
+import{_ as i,c as n,o,ai as s}from"./chunks/framework.BXrJsRDY.js";const p=JSON.parse('{"title":"美食 🍔","description":"","frontmatter":{},"headers":[],"relativePath":"food.md","filePath":"food.md","lastUpdated":null}'),e={name:"food.md"};function g(t,a,l,c,h,m){return o(),n("div",null,a[0]||(a[0]=[s("",49)]))}const d=i(e,[["render",g]]);export{p as __pageData,d as default};
